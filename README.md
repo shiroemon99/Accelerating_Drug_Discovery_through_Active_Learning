@@ -7,6 +7,6 @@ Applying traditional structure-based virtual screening in an exhaustive manner i
 
 #### Authors: Shuqing Shan(ss6368), Shanzhao Qiao(sq2224), Yan Gong(yg2818), Zixiang Tang(zt2292), Siyu Li(sl4826)
 
-#### Mentor: Pinyi Lu(pinyi.lu@nih.gov)
+#### Mentor: [Pinyi Lu](https://github.com/Hokiee)
 
 #### CA: Aayush Kumar Verma(av2955)
