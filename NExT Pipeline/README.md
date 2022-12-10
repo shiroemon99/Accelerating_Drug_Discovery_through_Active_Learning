@@ -6,4 +6,4 @@ Siyu Li:
 
 Zixiang Tang: 
 
-Shuqing Shan: 
+Shuqing Shan: Predicting ranking of docking scores with neural network model
